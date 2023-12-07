@@ -1,7 +1,12 @@
-const Total=(props)=>{
-    let [part1,part2,part3]=props.parts;
+const total = (parts)=>{
+
+const resultObj= parts.reduce((a, b) => ({exercises:a.exercises+b.exercises}))
+return resultObj.exercises
+}
+
+const Total=({parts})=>{
     return (
-        <p>Number of exercises {part1.exercises + part2.exercises + part3.exercises}</p>
+        <p>Number of exercises {total(parts)}</p>
     )
 }
 export default Total
