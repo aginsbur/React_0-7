@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "anecdotes": [
+    {
+      "votes": 17,
+      "content": "state changes are made with actions",
+      "id": 1
+    },
+    {
+      "votes": 5,
+      "content": "state changes are made with actions",
+      "id": 2
+    },
+    {
+      "content": "hello and how are you",
+      "votes": 0,
+      "id": 3
+    },
+    {
+      "content": "atara",
+      "votes": 0,
+      "id": 4
+    },
+    {
+      "content": "hgjkbnb h jgf hjgf ",
+      "votes": 0,
+      "id": 5
+    },
+    {
+      "content": "this is cool!",
+      "votes": 0,
+      "id": 6
+    }
+  ]
+}
