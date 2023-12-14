@@ -18,23 +18,23 @@
   },
   "anecdotes": [
     {
-      "votes": 17,
+      "votes": 26,
       "content": "state changes are made with actions",
       "id": 1
     },
     {
-      "votes": 5,
+      "votes": 9,
       "content": "state changes are made with actions",
       "id": 2
     },
     {
+      "votes": 4,
       "content": "hello and how are you",
-      "votes": 0,
       "id": 3
     },
     {
+      "votes": 2,
       "content": "atara",
-      "votes": 0,
       "id": 4
     },
     {
@@ -43,8 +43,8 @@
       "id": 5
     },
     {
+      "votes": 1,
       "content": "this is cool!",
-      "votes": 0,
       "id": 6
     }
   ]

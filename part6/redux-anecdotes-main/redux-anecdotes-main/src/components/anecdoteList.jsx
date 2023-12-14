@@ -23,7 +23,7 @@ const AnecdoteList = () => {
               onClick={() => {
                 dispatch(vote(anecdote.id));
                 service.update(anecdote.id,anecdote.votes+1);
-                dispatch(notify(`you voted ${anecdote.content}`));
+                dispatch(notify(`you voted ${anecdote.content}`,5));
               }}
             >
               vote
