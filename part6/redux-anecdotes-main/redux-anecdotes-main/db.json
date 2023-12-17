@@ -18,7 +18,7 @@
   },
   "anecdotes": [
     {
-      "votes": 26,
+      "votes": 28,
       "content": "state changes are made with actions",
       "id": 1
     },
@@ -28,7 +28,7 @@
       "id": 2
     },
     {
-      "votes": 4,
+      "votes": 5,
       "content": "hello and how are you",
       "id": 3
     },
@@ -46,6 +46,36 @@
       "votes": 1,
       "content": "this is cool!",
       "id": 6
+    },
+    {
+      "votes": 1,
+      "content": "hello and how are you",
+      "id": 7
+    },
+    {
+      "content": "this is cool!",
+      "votes": 0,
+      "id": 8
+    },
+    {
+      "content": "dsfjanl sdjfha l dlsjf",
+      "votes": 0,
+      "id": 9
+    },
+    {
+      "content": "jd sjdfllfd  idsfh  asdjf  fdjkha",
+      "votes": 0,
+      "id": 10
+    },
+    {
+      "content": "fdasb",
+      "votes": 0,
+      "id": 11
+    },
+    {
+      "content": "fw",
+      "votes": 0,
+      "id": 12
     }
   ]
 }
